@@ -1,0 +1,96 @@
+* {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+h1 { color: crimson;
+
+}
+
+strong {
+
+    font-weight: bold;
+}
+
+p { color: darkblue;
+background: rgb(193, 247, 193) ;
+font-weight: normal;
+text-transform: none;
+font-style: normal;
+line-height: 20px;
+letter-spacing: normal;
+text-decoration: none;
+
+
+}
+
+body {
+    background-color: antiquewhite;
+
+
+}
+
+#cite { 
+    color: darkmagenta;
+    background-color: rgb(233, 160, 199);
+}
+
+.new-class {
+    color: green;
+    background-color: cornsilk;
+    font-size: larger;
+
+}
+
+a {
+font-size: 30px;
+
+}
+
+a:visited {
+
+    color: rgb(2, 14, 71);
+    text-decoration: underline;
+}
+
+a:hover {
+    color: cyan;
+    text-decoration: none;
+}
+
+div {
+    color: firebrick;
+    font-size: 40px;
+}
+
+#contain {
+color: darkorange;
+border-style: double; 
+border-color: darkturquoise;
+border-width: 25px;
+width: 100px;
+  
+}
+
+#shape {
+    height: 200px;
+    width: 200px;
+    background-color: gainsboro;
+}
+
+#circle {
+    height: 300px;
+    width: 150px;
+    background-color: aquamarine;
+    border-color: blueviolet;
+    border-style: dashed;
+    border-radius: 25px;
+}
+
+img {
+width: 200px;
+height: 200px;
+
+}
